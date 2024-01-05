@@ -1,10 +1,10 @@
-# Projet d'un jeu vidéo et d'Animation Procédurale sur Unity
+# Projet d'un jeu vidéo en 3D et d'Animation Procédurale sur Unity
 
 ## Bourbier Surfers
 
 ## Présentation du projet
 
-Ce projet consiste en un jeu Endless Runner en 3D avec une créature animée grâce à l'animation procédurale. Le joueur doit éviter les obstacles et survivre le plus longtemps possible. L'objectif principal est de mettre en œuvre une animation procédurale pour la créature, avec des mouvements réalistes et adaptatifs. Le gameplay consiste à éviter les obstacles générés de manière infinie, et ainsi faire le meilleur score.
+Ce projet consiste en un jeu Endless Runner en 3D avec une créature animée grâce à l'animation procédurale. Le joueur doit éviter les obstacles et survivre le plus longtemps possible et ainsi faire le meilleur score. L'objectif principal est de mettre en œuvre une animation procédurale pour la créature, avec des mouvements réalistes et adaptatifs. 
 
 ## Objectifs
 
